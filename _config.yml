@@ -1,4 +1,4 @@
-name: Pratik Nilange
+name: Gallery · Pratik Nilange
 
 frame_padding: 10px
 
@@ -23,7 +23,7 @@ process:
     reverse: True
     min_width: 600
     watermark:
-      thumbnail: False
+      thumbnail: True
       original: True
       fontsize: 40
       fontfamily: Eczar-Medium.ttf
